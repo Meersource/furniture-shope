@@ -1,0 +1,56 @@
+.btn {
+    border: none;
+    outline: none;
+    background: #764abc;
+    padding: 5px 10px;
+    color: #fff;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn:hover {
+    background: #513282;
+}
+.cartCard {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #fff;
+    margin-bottom: 10px;
+    padding: 14px;
+    border-radius: 5px;
+}
+/* .cartWrapper{
+    height: 500px;
+    max-height: 600px;
+} */
+
+
+a {
+    text-decoration: none;
+  }
+  
+  .active .nav_item {
+    background-color: rgb(6, 10, 5);
+    color: white;
+  }
+  
+  .active .MuiButtonBase-root .MuiListItemIcon-root .MuiSvgIcon-root {
+    color: white !important;
+  }
+  
+  .active .nav_item:hover {
+    background-color: rgb(6, 10, 5);
+    color: white;
+  }
+  
+  .MuiBox-root .css-164r41r {
+    width: 480px;
+  }
+  
+  .field_error {
+    color: red;
+  }
+  
